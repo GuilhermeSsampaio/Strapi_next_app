@@ -1,0 +1,18 @@
+{
+  "kind": "singleType",
+  "collectionName": "tarefas",
+  "info": {
+    "singularName": "tarefa",
+    "pluralName": "tarefas",
+    "displayName": "tarefa"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "title": {
+      "type": "string"
+    }
+  }
+}

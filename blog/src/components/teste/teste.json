@@ -1,0 +1,13 @@
+{
+  "collectionName": "components_teste_testes",
+  "info": {
+    "displayName": "teste",
+    "icon": "attachment"
+  },
+  "options": {},
+  "attributes": {
+    "teste": {
+      "type": "string"
+    }
+  }
+}
